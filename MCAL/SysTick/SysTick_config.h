@@ -1,0 +1,6 @@
+#ifndef _SYSTICK_CONFIG_
+#define _SYSTICK_CONFIG_
+
+#define SYSTIC_CLOCK_TYPE   SYSTICK_AHB_DIV_8
+
+#endif
